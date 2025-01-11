@@ -1,0 +1,12 @@
+Library/
+__init__.py
+__pycache__/
+convo_history.json
+db.sqlite3
+engine.py
+history.json
+long_responses.py
+manage.py
+misc.json
+temp.json
+trainer.py
