@@ -10,3 +10,6 @@ manage.py
 misc.json
 temp.json
 trainer.py
+chatapi/migrations/
+learning.json
+requirements.txt

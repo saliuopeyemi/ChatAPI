@@ -1,3 +1,7 @@
-from django.test import TestCase
+# from django.test import TestCase
+a = "saliuoazeez@gmail.com"
 
-# Create your tests here.
+if ".com" in a:
+	print(True)
+else:
+	print(False)
